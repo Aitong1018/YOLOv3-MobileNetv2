@@ -1,0 +1,4 @@
+classes= 20
+train=dataVOC/train.txt
+valid=dataVOC/valid.txt
+names=dataVOC/voc.names
